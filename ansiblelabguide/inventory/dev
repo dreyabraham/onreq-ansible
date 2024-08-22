@@ -1,0 +1,5 @@
+[database]
+35.178.168.67 ansible_ssh_user='ubuntu'
+
+[webservers]
+3.8.192.14 ansible_ssh_user='ubuntu'
